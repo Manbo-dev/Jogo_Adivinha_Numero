@@ -21,5 +21,5 @@ while 1:
     elif escolhido==num:
         print("Parabéns, você acertou:")
         break
-print("Fim")
+print("Fim!")
 
